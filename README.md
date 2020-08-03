@@ -1,6 +1,6 @@
 # Personal Website / CV ⚡️
 
-To view the live demo 🚀 **[click here](https://iambetaraybill.github.io/Arpan/)**
+To view the live demo 🚀 **[click here](https://iambetaraybill.github.io/arpan/)**
 
 ## Technologies used 🛠️
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Front-end component library
