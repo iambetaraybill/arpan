@@ -11,7 +11,7 @@ To view the live demo 🚀 **[click here](https://iambetaraybill.github.io/Arpan
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the **[LICENSE](https://github.com/iambetaraybill/Arpan/blob/master/LICENSE)** file for details
 
 ## Acknowledgments 🎁
 
